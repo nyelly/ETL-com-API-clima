@@ -1,0 +1,138 @@
+cidade,temperatura,umidade,data_coleta
+Natal,27.12,74,2025-08-25 17:34:01.421341
+São Paulo,18.54,81,2025-08-25 17:34:02.145470
+Rio de Janeiro,23.21,80,2025-08-25 17:34:03.106953
+Natal,27.12,74,2025-08-25 17:39:01.621318
+São Paulo,17.81,84,2025-08-25 17:39:01.973883
+Rio de Janeiro,22.44,83,2025-08-25 17:39:02.324931
+Natal,27.12,74,2025-08-25 17:44:03.271385
+São Paulo,17.81,84,2025-08-25 17:44:03.639228
+Rio de Janeiro,22.44,83,2025-08-25 17:44:03.977987
+Natal,27.12,74,2025-08-25 18:04:25.555176
+São Paulo,17.5,85,2025-08-25 18:04:26.482210
+Rio de Janeiro,22.44,83,2025-08-25 18:04:27.572146
+Natal,25.36,83,2025-08-25 18:13:18.177545
+São Paulo,17.5,85,2025-08-25 18:13:19.111750
+Rio de Janeiro,21.98,88,2025-08-25 18:13:20.045013
+Natal,25.36,83,2025-08-25 18:14:02.928529
+São Paulo,17.5,85,2025-08-25 18:14:03.951655
+Rio de Janeiro,21.98,88,2025-08-25 18:14:05.289237
+Natal,28.12,65,2025-08-27 11:06:53.136683
+São Paulo,21.31,77,2025-08-27 11:07:18.315845
+Natal,29.12,54,2025-08-27 11:55:57.448642
+São Paulo,21.22,72,2025-08-27 11:55:58.729330
+Rio de Janeiro,24.2,70,2025-08-27 11:55:59.800485
+Fortaleza,30.07,54,2025-08-27 13:19:16.727368
+São Paulo,22.2,76,2025-08-27 13:19:24.681087
+Fortaleza,30.07,54,2025-08-27 13:24:02.006299
+São Paulo,22.07,72,2025-08-27 13:24:07.046867
+Fortaleza,30.07,54,2025-08-27 13:40:29.064344
+Anápolis,28.78,26,2025-08-27 13:40:36.987378
+São Paulo,23.96,62,2025-08-28 13:54:37.864227
+Natal,30.12,51,2025-08-28 13:55:02.957922
+Anápolis,30.78,23,2025-08-28 13:55:08.924195
+Natal,30.12,51,2025-08-28 13:58:57.755935
+São Paulo,23.96,62,2025-08-28 13:59:13.244551
+São Paulo,23.96,62,2025-08-28 13:59:43.760755
+São Paulo,23.96,62,2025-08-28 14:00:44.995863
+Fortaleza,30.07,51,2025-08-28 14:11:23.655182
+Anápolis,32.27,18,2025-08-28 14:11:55.678423
+Anápolis,32.27,18,2025-08-28 14:11:57.551972
+Anápolis,32.27,18,2025-08-28 14:12:20.377664
+Anápolis,32.27,18,2025-08-28 14:12:21.835844
+Rio de Janeiro,26.99,58,2025-08-28 14:12:27.041729
+São Paulo,23.96,62,2025-08-28 14:12:34.612247
+São Paulo,23.96,62,2025-08-28 14:12:35.869702
+Salvador,26.98,73,2025-08-28 14:12:56.532668
+Salvador,26.98,73,2025-08-28 14:12:58.378987
+Belo Horizonte,27.22,39,2025-08-28 14:13:16.073337
+Belém,29.98,96,2025-08-28 14:13:28.002911
+Fortaleza,30.07,51,2025-08-28 14:16:32.433590
+Natal,30.12,51,2025-08-28 14:21:44.298853
+Fortaleza,30.07,51,2025-08-28 14:21:54.641435
+Maceió,26.69,65,2025-08-28 14:23:26.587220
+Maceió,26.69,65,2025-08-28 14:23:29.007149
+Teresina,35.84,28,2025-08-28 14:23:41.751407
+Osasco,23.68,92,"quinta-feira, 28 de agosto de 2025 14:26:47"
+Osasco,23.68,92,"quinta-feira, 28 de agosto de 2025 14:26:48"
+Natal,30.12,51,"Quinta-feira, 28 de agosto de 2025 14:28:43"
+São Paulo,23.71,67,"Quinta-feira, 28 de agosto de 2025 14:28:44"
+Rio de Janeiro,24.22,75,"Quinta-feira, 28 de agosto de 2025 14:28:45"
+Fortaleza,30.07,51,"Quinta-feira, 28 de agosto de 2025 14:28:46"
+Anápolis,29.78,24,"Quinta-feira, 28 de agosto de 2025 14:28:47"
+Salvador,26.98,73,"Quinta-feira, 28 de agosto de 2025 14:28:48"
+Belo Horizonte,25.44,36,"Quinta-feira, 28 de agosto de 2025 14:28:50"
+Belém,29.98,97,"Quinta-feira, 28 de agosto de 2025 14:28:51"
+Maceió,26.69,65,"Quinta-feira, 28 de agosto de 2025 14:28:52"
+Teresina,35.84,28,"Quinta-feira, 28 de agosto de 2025 14:28:53"
+Osasco,23.68,92,"Quinta-feira, 28 de agosto de 2025 14:28:54"
+Natal,30.12,51,"Quinta-feira, 28 de agosto de 2025 14:29:44"
+São Paulo,23.71,67,"Quinta-feira, 28 de agosto de 2025 14:29:45"
+Rio de Janeiro,24.22,75,"Quinta-feira, 28 de agosto de 2025 14:29:46"
+Fortaleza,30.07,51,"Quinta-feira, 28 de agosto de 2025 14:29:47"
+Anápolis,29.78,24,"Quinta-feira, 28 de agosto de 2025 14:29:49"
+Salvador,26.98,73,"Quinta-feira, 28 de agosto de 2025 14:29:51"
+Belo Horizonte,25.44,36,"Quinta-feira, 28 de agosto de 2025 14:29:52"
+Belém,29.98,97,"Quinta-feira, 28 de agosto de 2025 14:29:53"
+Maceió,26.69,65,"Quinta-feira, 28 de agosto de 2025 14:29:54"
+Teresina,35.84,28,"Quinta-feira, 28 de agosto de 2025 14:29:55"
+Osasco,23.68,92,"Quinta-feira, 28 de agosto de 2025 14:29:56"
+Natal,30.12,51,"Quinta-feira, 28 de agosto de 2025 14:30:58"
+São Paulo,23.71,67,"Quinta-feira, 28 de agosto de 2025 14:30:59"
+Rio de Janeiro,24.22,75,"Quinta-feira, 28 de agosto de 2025 14:31:00"
+Fortaleza,30.07,51,"Quinta-feira, 28 de agosto de 2025 14:31:02"
+Anápolis,29.78,24,"Quinta-feira, 28 de agosto de 2025 14:31:03"
+Salvador,26.98,73,"Quinta-feira, 28 de agosto de 2025 14:31:04"
+Belo Horizonte,25.44,36,"Quinta-feira, 28 de agosto de 2025 14:31:05"
+Belém,29.98,97,"Quinta-feira, 28 de agosto de 2025 14:31:06"
+Maceió,26.69,65,"Quinta-feira, 28 de agosto de 2025 14:31:08"
+Teresina,35.84,28,"Quinta-feira, 28 de agosto de 2025 14:31:09"
+Osasco,23.68,92,"Quinta-feira, 28 de agosto de 2025 14:31:10"
+Natal,30.12,51,"Quinta-feira, 28 de agosto de 2025 14:32:12"
+São Paulo,23.71,67,"Quinta-feira, 28 de agosto de 2025 14:32:13"
+Rio de Janeiro,24.22,75,"Quinta-feira, 28 de agosto de 2025 14:32:14"
+Fortaleza,30.07,51,"Quinta-feira, 28 de agosto de 2025 14:32:16"
+Anápolis,29.78,24,"Quinta-feira, 28 de agosto de 2025 14:32:18"
+Salvador,26.98,73,"Quinta-feira, 28 de agosto de 2025 14:32:19"
+Belo Horizonte,26.27,40,"Quinta-feira, 28 de agosto de 2025 14:32:21"
+Natal,30.12,51,"Quinta-feira, 28 de agosto de 2025 14:33:40"
+São Paulo,23.71,67,"Quinta-feira, 28 de agosto de 2025 14:33:41"
+Rio de Janeiro,24.22,75,"Quinta-feira, 28 de agosto de 2025 14:33:43"
+Fortaleza,30.07,51,"Quinta-feira, 28 de agosto de 2025 14:33:44"
+Anápolis,29.78,24,"Quinta-feira, 28 de agosto de 2025 14:33:46"
+Salvador,26.98,73,"Quinta-feira, 28 de agosto de 2025 14:33:47"
+Belo Horizonte,26.27,40,"Quinta-feira, 28 de agosto de 2025 14:33:49"
+Belém,29.98,98,"Quinta-feira, 28 de agosto de 2025 14:33:50"
+Maceió,26.69,65,"Quinta-feira, 28 de agosto de 2025 14:33:51"
+Osasco,23.68,92,"Quinta-feira, 28 de agosto de 2025 14:33:52"
+Teresina,35.84,28,"Quinta-feira, 28 de agosto de 2025 14:33:53"
+Osasco,23.68,92,"Quinta-feira, 28 de agosto de 2025 14:33:54"
+São Luís,31.11,66,"Quinta-feira, 28 de agosto de 2025 14:34:24"
+Gramado,19.74,13,"Quinta-feira, 28 de agosto de 2025 14:34:37"
+Natal,30.12,51,"Quinta-feira, 28 de agosto de 2025 14:34:41"
+São Paulo,23.71,67,"Quinta-feira, 28 de agosto de 2025 14:34:42"
+Rio de Janeiro,24.22,75,"Quinta-feira, 28 de agosto de 2025 14:34:43"
+Fortaleza,30.07,51,"Quinta-feira, 28 de agosto de 2025 14:34:44"
+Anápolis,29.78,24,"Quinta-feira, 28 de agosto de 2025 14:34:45"
+Salvador,26.98,73,"Quinta-feira, 28 de agosto de 2025 14:34:46"
+Belo Horizonte,26.27,40,"Quinta-feira, 28 de agosto de 2025 14:34:47"
+Belém,29.98,98,"Quinta-feira, 28 de agosto de 2025 14:34:48"
+Maceió,26.69,65,"Quinta-feira, 28 de agosto de 2025 14:34:49"
+Teresina,35.84,28,"Quinta-feira, 28 de agosto de 2025 14:34:50"
+Osasco,23.68,92,"Quinta-feira, 28 de agosto de 2025 14:34:52"
+São Luís,31.11,66,"Quinta-feira, 28 de agosto de 2025 14:34:53"
+Gramado,19.74,13,"Quinta-feira, 28 de agosto de 2025 14:34:54"
+Natal,30.12,51,"Quinta-feira, 28 de agosto de 2025 14:37:53"
+São Paulo,23.71,67,"Quinta-feira, 28 de agosto de 2025 14:37:54"
+Rio de Janeiro,24.22,75,"Quinta-feira, 28 de agosto de 2025 14:37:55"
+Fortaleza,30.07,51,"Quinta-feira, 28 de agosto de 2025 14:37:56"
+Anápolis,29.78,24,"Quinta-feira, 28 de agosto de 2025 14:37:58"
+Salvador,26.98,73,"Quinta-feira, 28 de agosto de 2025 14:37:59"
+Belo Horizonte,26.27,40,"Quinta-feira, 28 de agosto de 2025 14:37:59"
+Belém,29.98,98,"Quinta-feira, 28 de agosto de 2025 14:38:00"
+Maceió,26.69,65,"Quinta-feira, 28 de agosto de 2025 14:38:01"
+Teresina,35.84,28,"Quinta-feira, 28 de agosto de 2025 14:38:03"
+Osasco,23.51,79,"Quinta-feira, 28 de agosto de 2025 14:38:03"
+São Luís,31.11,66,"Quinta-feira, 28 de agosto de 2025 14:38:04"
+Gramado,19.74,13,"Quinta-feira, 28 de agosto de 2025 14:38:05"
+Sorocaba,25.31,48,"Quinta-feira, 28 de agosto de 2025 14:38:22"
